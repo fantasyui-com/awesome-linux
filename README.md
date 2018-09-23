@@ -6,9 +6,9 @@ Curated List of Tiny Linux Distributions
 - [NanoLinux](https://en.wikipedia.org/wiki/Nanolinux): NanoLinux is an open source, free and very lightweight Linux distribution that requires only 14 MB of disk space including tiny versions of the most common desktop applications and several games.
 - [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux): Lightweight and flexible Linux distribution that tries to Keep It Simple.
 - [Damn Small Linux](https://en.wikipedia.org/wiki/Damn_Small_Linux): Damn Small Linux is a computer operating system for the x86 family of personal computers. It is free and open source software under the terms of the GNU GPL and other free and open source licenses.
-- https://en.wikipedia.org/wiki/Knoppix
-- https://en.wikipedia.org/wiki/Lubuntu
-- https://en.wikipedia.org/wiki/Peppermint_Linux_OS
-- https://en.wikipedia.org/wiki/Puppy_Linux
-- https://en.wikipedia.org/wiki/Slax
-- https://en.wikipedia.org/wiki/Xubuntu
+- [Knoppix](https://en.wikipedia.org/wiki/Knoppix): Based on Debian designed to be run directly from removable medium, uses	LXDE (previously KDE).
+- [Lubuntu](https://en.wikipedia.org/wiki/Lubuntu): 
+- [Peppermint Linux OS](https://en.wikipedia.org/wiki/Peppermint_Linux_OS): 
+- [Puppy Linux](https://en.wikipedia.org/wiki/Puppy_Linux): 
+- [Slax](https://en.wikipedia.org/wiki/Slax): 
+- [Xubuntu](https://en.wikipedia.org/wiki/Xubuntu): 
