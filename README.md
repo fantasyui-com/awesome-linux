@@ -7,8 +7,8 @@ Curated List of Tiny Linux Distributions
 - [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux): Lightweight and flexible Linux distribution that tries to Keep It Simple.
 - [Damn Small Linux](https://en.wikipedia.org/wiki/Damn_Small_Linux): Damn Small Linux is a computer operating system for the x86 family of personal computers. It is free and open source software under the terms of the GNU GPL and other free and open source licenses.
 - [Knoppix](https://en.wikipedia.org/wiki/Knoppix): Based on Debian designed to be run directly from removable medium, uses	LXDE (previously KDE).
-- [Lubuntu](https://en.wikipedia.org/wiki/Lubuntu): 
-- [Peppermint Linux OS](https://en.wikipedia.org/wiki/Peppermint_Linux_OS): 
-- [Puppy Linux](https://en.wikipedia.org/wiki/Puppy_Linux): 
-- [Slax](https://en.wikipedia.org/wiki/Slax): 
-- [Xubuntu](https://en.wikipedia.org/wiki/Xubuntu): 
+- [Lubuntu](https://en.wikipedia.org/wiki/Lubuntu): Lightweight Linux distribution based on Ubuntu but using the LXDE desktop environment.
+- [Peppermint Linux OS](https://en.wikipedia.org/wiki/Peppermint_Linux_OS): Peppermint Linux OS is a cloud-centric OS based on Lubuntu.
+- [Puppy Linux](https://en.wikipedia.org/wiki/Puppy_Linux): Puppy Linux is an operating system and lightweight Linux distribution that focuses on ease of use and minimal memory footprint. The entire system can be run from RAM with current versions generally taking up about 210 MB.
+- [Slax](https://en.wikipedia.org/wiki/Slax): Slax is a LiveCD Linux distribution based on Debian.
+- [Xubuntu](https://en.wikipedia.org/wiki/Xubuntu): Xubuntu is a portmanteau of Xfce and Ubuntu, as it uses the Xfce desktop environment.
